@@ -94,12 +94,12 @@ START_IMG_URL = getenv(
 PING_IMG_URL = getenv(
     "PING_IMG_URL", "https://unitedcamps.in/Images/IMG_1742795844.jpg"
 )
-PLAYLIST_IMG_URL = "https://te.legra.ph/file/14eb59ea7d31229d8d751.jpg"
-STATS_IMG_URL = "https://te.legra.ph/file/4310ea5f523520b2b765b.jpg"
-TELEGRAM_AUDIO_URL = "https://te.legra.ph/file/923c1faac33d8c70335dc.jpg"
-TELEGRAM_VIDEO_URL = "https://te.legra.ph/file/6c66f8b192532fe758e82.jpg"
-STREAM_IMG_URL = "https://te.legra.ph/file/ebc4dc6357be06e08a3ed.jpg"
-SOUNCLOUD_IMG_URL = "https://te.legra.ph/file/d339f390ec168c19879c6.jpg"
+PLAYLIST_IMG_URL = "https://unitedcamps.in/Images/IMG_1742795844.jpg"
+STATS_IMG_URL = "https://unitedcamps.in/Images/IMG_1742795844.jpg"
+TELEGRAM_AUDIO_URL = "https://unitedcamps.in/Images/IMG_1742795844.jpg"
+TELEGRAM_VIDEO_URL = "https://unitedcamps.in/Images/IMG_1742795844.jpg"
+STREAM_IMG_URL = "https://unitedcamps.in/Images/IMG_1742795844.jpg"
+SOUNCLOUD_IMG_URL = "https://unitedcamps.in/Images/IMG_1742795844.jpg"
 YOUTUBE_IMG_URL = "https://te.legra.ph/file/ee0cd53ab73f08f4a3627.jpg"
 SPOTIFY_ARTIST_IMG_URL = "https://te.legra.ph/file/5f9fb5bba66021c782d96.jpg"
 SPOTIFY_ALBUM_IMG_URL = "https://te.legra.ph/file/affe0afec5c7ad63676a4.jpg"
